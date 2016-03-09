@@ -162,7 +162,7 @@ body {
 
 @media (max-width: 399px) {
   .container {
-    width: 340px!important;
+    width: 320px!important;
   }
   .navbar-right {
     float: right !important;
